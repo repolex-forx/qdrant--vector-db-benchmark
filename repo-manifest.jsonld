@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/qdrant/vector-db-benchmark/commit/acedefda700e2b2895164e2338893d945d6d3c1e",
       "git:hexsha": "acedefda700e2b2895164e2338893d945d6d3c1e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/qdrant/vector-db-benchmark/commit/ba5cd82e1b8d654ad973cc0c37adb3dbd5cd45e0",
