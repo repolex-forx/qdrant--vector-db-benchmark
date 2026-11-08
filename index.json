@@ -1,0 +1,11 @@
+{
+  "org": "qdrant",
+  "repo": "vector-db-benchmark",
+  "versions": [
+    {
+      "commit": "acedefda700e2b2895164e2338893d945d6d3c1e",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:42:23.460759+00:00"
+    }
+  ]
+}
